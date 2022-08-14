@@ -1,8 +1,7 @@
 package ru.netology.domain;
 
-public class Geo {
-    String type;
-    String coordinates;
+public class ViewsInfo {
+    private int count;
 
     // + get/set на все поля
 }
